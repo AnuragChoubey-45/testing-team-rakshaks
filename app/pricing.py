@@ -1,6 +1,6 @@
 from .customer import Customer
 
-PREMIUM_DISCOUNT = 0.20
+PREMIUM_DISCOUNT = 0.05
 REGULAR_DISCOUNT = 0.05
 
 def discount_rate(customer: Customer) -> float:
