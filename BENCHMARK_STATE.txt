@@ -1,0 +1,3 @@
+HEAD is intentionally broken; tag 'baseline' is healthy.
+Normal pytest is intentionally insufficient for the target behavior.
+Expected harness workflow: create baseline -> compare runtime behavior -> repair -> verify.
